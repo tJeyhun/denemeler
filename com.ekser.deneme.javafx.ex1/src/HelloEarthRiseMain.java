@@ -33,7 +33,7 @@ public class HelloEarthRiseMain extends Application {
 				+ "[Forty] years ago this Christmas, a turbulent world "
 				+ "looked to the heavens for a unique view of our home "
 				+ "planet. This photo of Earthrise over the lunar horizon "
-				+ "was taken by the Apollo 8 crew in December 1968, showing "
+				+ "was taken by the eApollo 8 crew in December 1968, showing "
 				+ "Earth for the first time as it appears from deep space. "
 				+ "Astronauts Frank Borman, Jim Lovell and William Anders "
 				+ "had become the first humans to leave Earth orbit, "
