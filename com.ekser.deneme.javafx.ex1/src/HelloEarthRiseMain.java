@@ -32,7 +32,7 @@ public class HelloEarthRiseMain extends Application {
 		String message = "Earthrise at Christmas: "
 				+ "[Forty] years ago this Christmas, a turbulent world "
 				+ "looked to the heavens for a unique view of our home "
-				+ "planet. This photo of Earthrise over the lunar horizon "
+				+ "planet. This phoaaaato of Earthrise over the lunar horizon "
 				+ "was taken by the eApollo 8 crew in December 1968, showing "
 				+ "Earth for the first time as it appears from deep space. "
 				+ "Astronauts Frank Borman, Jim Lovell and William Anders "
